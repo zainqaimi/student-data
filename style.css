@@ -1,0 +1,16 @@
+.card{
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 2px 2px;
+    margin: 10px;
+    padding:  1px 5px 1px 5px ;
+background-color: aqua;
+}
+table,tr,td{
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+    padding: auto;
+}
+
